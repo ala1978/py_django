@@ -1,7 +1,5 @@
 for i in range(1,11):
-    if i>=8:
-        print('Even value')
-else:
-    print('odd value')
+        print('The number is :', i)
+        i=i+1
 
 print('Hallo python')
